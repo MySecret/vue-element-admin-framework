@@ -1,0 +1,45 @@
+//scroll 垂直方向-滚动条样式
+.v-scroll {
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+  overflow-x: hidden !important;
+  .el-scrollbar__view {
+    // height: 100%;
+  }
+  .el-scrollbar__wrap {
+    overflow-x: hidden;
+  }
+}
+//竖直方向滚动条
+.h-scroll {
+  height: 100%;
+  > .el-scrollbar__wrap {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    margin-right: 0 !important;
+  }
+  > .el-scrollbar__wrap > .el-scrollbar__view {
+    font-size: 0;
+  }
+  .h-scroll.swapper {
+    .el-scrollbar__view {
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
+
+//滚动条
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+//滚动条的滑块
+::-webkit-scrollbar-thumb {
+  background-color: rgba(144, 147, 153, 0.5);
+  border-radius: 4px;
+}

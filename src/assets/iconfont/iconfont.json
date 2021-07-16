@@ -1,0 +1,212 @@
+{
+  "id": "2332781",
+  "name": "铁人智造系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22481283",
+      "name": "二维码 (1)",
+      "font_class": "a-erweima1",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "22429936",
+      "name": "dui",
+      "font_class": "a-dui2",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "21684678",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "21684659",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "21684650",
+      "name": "微信",
+      "font_class": "weixin2",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "19449526",
+      "name": "附件",
+      "font_class": "fujian",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "15838466",
+      "name": "drag",
+      "font_class": "drag",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "21492812",
+      "name": "产品资料",
+      "font_class": "chanpinziliao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "21492813",
+      "name": "订单与计划",
+      "font_class": "dingdanyujihua",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "21492814",
+      "name": "金工智造",
+      "font_class": "jingongzhizao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "21492815",
+      "name": "焊接智造",
+      "font_class": "hanjiezhizao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "21492816",
+      "name": "物料",
+      "font_class": "wuliao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "21492817",
+      "name": "喷涂装配",
+      "font_class": "pentuzhuangpei",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "21492819",
+      "name": "模具设备",
+      "font_class": "mojushebei",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "21492820",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "21492822",
+      "name": "供应链管理",
+      "font_class": "gongyinglianguanli",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "21492823",
+      "name": "研发管理",
+      "font_class": "yanfaguanli",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "21492824",
+      "name": "注塑小件",
+      "font_class": "zhusuxiaojian",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "21491169",
+      "name": "save2",
+      "font_class": "save2",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "21491168",
+      "name": "save",
+      "font_class": "save",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "21491167",
+      "name": "lie",
+      "font_class": "lie",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "20109994",
+      "name": "qianjin",
+      "font_class": "qianjin",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "20100646",
+      "name": "fenlei-1",
+      "font_class": "fenlei-1",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "20046633",
+      "name": "cha-",
+      "font_class": "cha-",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "20039936",
+      "name": "shanchu2",
+      "font_class": "shanchu2",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "20039925",
+      "name": "xiugai",
+      "font_class": "xiugai",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "20039906",
+      "name": "zhiding",
+      "font_class": "zhiding",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "19469078",
+      "name": "mima",
+      "font_class": "mima",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "19469071",
+      "name": "renwu-ren",
+      "font_class": "renwu-ren",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    }
+  ]
+}
